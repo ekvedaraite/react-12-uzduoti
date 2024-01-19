@@ -1,0 +1,317 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "title": "Ultra HD 4K Smart TV",
+        "category": "electronics",
+        "price": 4000,
+        "description": "Experience stunning 4K visuals with our Ultra HD Smart TV, featuring state-of-the-art technology and seamless connectivity."
+      },
+      {
+        "id": "2",
+        "title": "Bluetooth Noise-Canceling Headphones",
+        "category": "electronics",
+        "price": 2000,
+        "description": "Immerse yourself in music with our Bluetooth Noise-Canceling Headphones, offering exceptional sound quality and comfort."
+      },
+      {
+        "id": "3",
+        "title": "Classic Literature Collection",
+        "category": "books",
+        "price": 1000,
+        "description": "Explore timeless literary works with our Classic Literature Collection, featuring masterpieces from renowned authors."
+      },
+      {
+        "id": "4",
+        "title": "High-Performance Treadmill",
+        "category": "fitness",
+        "price": 3000,
+        "description": "Achieve your fitness goals with our High-Performance Treadmill, designed for durability and efficiency."
+      },
+      {
+        "id": "5",
+        "title": "Home Gym Set",
+        "category": "fitness",
+        "price": 4000,
+        "description": "Transform your home into a fitness haven with our comprehensive Home Gym Set, featuring versatile equipment for a full-body workout."
+      },
+      {
+        "id": "6",
+        "title": "Professional Gardening Tools",
+        "category": "gardening",
+        "price": 5000,
+        "description": "Cultivate your garden with precision using our Professional Gardening Tools, crafted for avid gardeners and landscaping enthusiasts."
+      },
+      {
+        "id": "7",
+        "title": "Modern Living Room Sofa",
+        "category": "furniture",
+        "price": 6000,
+        "description": "Upgrade your living space with our Modern Living Room Sofa, combining style and comfort for a contemporary look."
+      },
+      {
+        "id": "8",
+        "title": "Elegant Dining Table Set",
+        "category": "furniture",
+        "price": 7000,
+        "description": "Create memorable dining experiences with our Elegant Dining Table Set, designed to complement your dining area with sophistication."
+      },
+      {
+        "id": "9",
+        "title": "Compact Office Desk",
+        "category": "furniture",
+        "price": 5000,
+        "description": "Optimize your workspace with our Compact Office Desk, featuring a sleek design for efficiency and organization."
+      },
+      {
+        "id": "10",
+        "title": "Luxury Skincare Kit",
+        "category": "beauty",
+        "price": 9000,
+        "description": "Indulge in self-care with our Luxury Skincare Kit, curated with premium products to enhance your beauty regimen."
+      }
+    ],
+    "reviews": [
+      {
+        "id": "1",
+        "name": "Alice Johnson",
+        "rating": 3,
+        "title": "Good, but expected better Image quality",
+        "comment": "The TV is good, but I was expecting sharper image quality for the price",
+        "productId": "1"
+      },
+      {
+        "id": "2",
+        "name": "David Miller",
+        "rating": 4,
+        "title": "Excellent Features",
+        "comment": "The Ultra HD 4K Smart TV exceeded my expectations. The features are top-notch, and the connectivity options are fantastic.",
+        "productId": "1"
+      },
+      {
+        "id": "3",
+        "name": "Sophie Lewis",
+        "rating": 5,
+        "title": "Impressive Visuals",
+        "comment": "The 4K visuals on this TV are stunning. It's like having a cinema experience at home. Highly recommend!",
+        "productId": "1"
+      },
+      {
+        "id": "4",
+        "name": "John Smith",
+        "rating": 5,
+        "title": "Amazing Sound Experience",
+        "comment": "These headphones exceeded my expectations! The sound quality is phenomenal, and the noise-canceling feature works like a charm.",
+        "productId": "2"
+      },
+      {
+        "id": "5",
+        "name": "Megan Davis",
+        "rating": 4,
+        "title": "Comfortable and Stylish",
+        "comment": "The Bluetooth Noise-Canceling Headphones not only deliver great sound but are also comfortable to wear for extended periods. Love the stylish design!",
+        "productId": "2"
+      },
+      {
+        "id": "6",
+        "name": "Michael White",
+        "rating": 4,
+        "title": "Solid Build Quality",
+        "comment": "The build quality of these headphones is impressive. They feel sturdy and well-made, adding to the overall premium experience.",
+        "productId": "2"
+      },
+      {
+        "id": "7",
+        "name": "Emma Johnson",
+        "rating": 4,
+        "title": "Engaging Read",
+        "comment": "The Classic Literature Collection offers a diverse selection of timeless works. It's a must-have for anyone who appreciates classic literature.",
+        "productId": "3"
+      },
+      {
+        "id": "8",
+        "name": "Brian Turner",
+        "rating": 3,
+        "title": "Good Collection but Missing Some Titles",
+        "comment": "While the Classic Literature Collection is good, I expected a more comprehensive selection. Some notable titles seem to be missing.",
+        "productId": "3"
+      },
+      {
+        "id": "9",
+        "name": "Olivia Brown",
+        "rating": 5,
+        "title": "Perfect Gift for Book Lovers",
+        "comment": "I bought the Classic Literature Collection as a gift, and it was a hit! The recipient loved the variety of classic works included.",
+        "productId": "3"
+      },
+      {
+        "id": "10",
+        "name": "Robert Turner",
+        "rating": 4,
+        "title": "Great for Cardio Workouts",
+        "comment": "The High-Performance Treadmill is excellent for cardio workouts. It's sturdy, and the various speed settings allow for a personalized exercise routine.",
+        "productId": "4"
+      },
+      {
+        "id": "11",
+        "name": "Eva Martinez",
+        "rating": 5,
+        "title": "Easy to Assemble",
+        "comment": "Setting up the High-Performance Treadmill was a breeze. It's user-friendly, and the assembly instructions are clear and concise.",
+        "productId": "4"
+      },
+      {
+        "id": "12",
+        "name": "Sarah Adams",
+        "rating": 4,
+        "title": "Durable Design",
+        "comment": "I've been using the High-Performance Treadmill for months, and it still performs like new. The durable design is impressive.",
+        "productId": "4"
+      },
+      {
+        "id": "13",
+        "name": "Megan Carter",
+        "rating": 5,
+        "title": "Complete Home Workout Solution",
+        "comment": "The Home Gym Set is fantastic! It has everything I need for a full-body workout at home. The quality of the equipment is impressive.",
+        "productId": "5"
+      },
+      {
+        "id": "14",
+        "name": "James Smith",
+        "rating": 4,
+        "title": "Versatile Equipment",
+        "comment": "I appreciate the versatility of the Home Gym Set. It allows me to target different muscle groups with ease.",
+        "productId": "5"
+      },
+      {
+        "id": "15",
+        "name": "Sophia Turner",
+        "rating": 5,
+        "title": "Excellent Build Quality",
+        "comment": "The Home Gym Set is built to last. The materials used are of high quality, making it a reliable choice for home workouts.",
+        "productId": "5"
+      },
+      {
+        "id": "16",
+        "name": "GardeningEnthusiast22",
+        "rating": 4,
+        "title": "Top-Notch Gardening Tools",
+        "comment": "As a gardening enthusiast, I appreciate the quality of the Professional Gardening Tools. They make tending to my garden a breeze.",
+        "productId": "6"
+      },
+      {
+        "id": "17",
+        "name": "Hannah Green",
+        "rating": 5,
+        "title": "Durable and Reliable",
+        "comment": "These gardening tools are durable and reliable, making them essential for anyone serious about maintaining a beautiful garden.",
+        "productId": "6"
+      },
+      {
+        "id": "18",
+        "name": "Alex Turner",
+        "rating": 4,
+        "title": "Comfortable to Use",
+        "comment": "The ergonomic design of the gardening tools makes them comfortable to use for extended periods. A great investment for garden care.",
+        "productId": "6"
+      },
+      {
+        "id": "19",
+        "name": "Sophia Rodriguez",
+        "rating": 5,
+        "title": "Sleek and Comfortable",
+        "comment": "The Modern Living Room Sofa is not only stylish but also incredibly comfortable. It's a great addition to my living space.",
+        "productId": "7"
+      },
+      {
+        "id": "20",
+        "name": "Lucas Smith",
+        "rating": 4,
+        "title": "Easy to Clean",
+        "comment": "The material of the Modern Living Room Sofa is easy to clean, making it a practical choice for households with pets or children.",
+        "productId": "7"
+      },
+      {
+        "id": "21",
+        "name": "Ella Turner",
+        "rating": 5,
+        "title": "Impressive Design",
+        "comment": "The design of the Modern Living Room Sofa is impressive. It adds a modern touch to my home decor, and the quality is evident.",
+        "productId": "7"
+      },
+      {
+        "id": "22",
+        "name": "Daniel Thompson",
+        "rating": 4,
+        "title": "Elegance at Its Best",
+        "comment": "The Elegant Dining Table Set adds an element of elegance to my dining room. It's well-crafted and sturdy, perfect for hosting dinners.",
+        "productId": "8"
+      },
+      {
+        "id": "23",
+        "name": "Sophie White",
+        "rating": 5,
+        "title": "Perfect for Gatherings",
+        "comment": "I love hosting gatherings with friends and family, and the Elegant Dining Table Set enhances the dining experience. It's perfect for special occasions.",
+        "productId": "8"
+      },
+      {
+        "id": "24",
+        "name": "Andrew Davis",
+        "rating": 4,
+        "title": "Assembly Instructions Could Be Clearer",
+        "comment": "While the Elegant Dining Table Set is beautiful, I found the assembly instructions a bit unclear. However, the end result is worth it.",
+        "productId": "8"
+      },
+      {
+        "id": "25",
+        "name": "OfficeProfessional87",
+        "rating": 4,
+        "title": "Efficient Workspace Solution",
+        "comment": "The Compact Office Desk is an efficient solution for my workspace. It's compact yet spacious enough for all my work essentials.",
+        "productId": "9"
+      },
+      {
+        "id": "26",
+        "name": "Isaac Martinez",
+        "rating": 5,
+        "title": "Sleek and Modern Design",
+        "comment": "The sleek and modern design of the Compact Office Desk complements my office space perfectly. It's functional and aesthetically pleasing.",
+        "productId": "9"
+      },
+      {
+        "id": "27",
+        "name": "Emma Turner",
+        "rating": 4,
+        "title": "Sturdy Construction",
+        "comment": "The Compact Office Desk has a sturdy construction. It can withstand the daily demands of a busy workspace.",
+        "productId": "9"
+      },
+      {
+        "id": "28",
+        "name": "BeautyQueen123",
+        "rating": 5,
+        "title": "Ultimate Self-Care Package",
+        "comment": "The Luxury Skincare Kit is the ultimate self-care package. The products are luxurious, and my skin has never felt better.",
+        "productId": "10"
+      },
+      {
+        "id": "29",
+        "name": "Sophia Adams",
+        "rating": 4,
+        "title": "Visible Results",
+        "comment": "After using the Luxury Skincare Kit, I noticed visible improvements in my skin. It's a worthwhile investment for anyone passionate about skincare.",
+        "productId": "10"
+      },
+      {
+        "id": "30",
+        "name": "Ethan Turner",
+        "rating": 5,
+        "title": "Pampering Experience",
+        "comment": "Each product in the Luxury Skincare Kit provides a pampering experience. It's a treat for the skin, and I feel rejuvenated after each use.",
+        "productId": "10"
+      }
+    ]
+  }
+  
